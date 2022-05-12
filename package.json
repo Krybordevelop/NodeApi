@@ -1,0 +1,29 @@
+{
+  "name": "nodeapi",
+  "version": "0.0.1",
+  "description": "nodeJS Swagger OpenAPI Express Practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krybordevelop/NodeApi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "swagger",
+    "OpenAPI",
+    "practice"
+  ],
+  "author": "krybordevelop@gmail.com",
+  "license": "ISC",
+  "type":"module",
+  "bugs": {
+    "url": "https://github.com/Krybordevelop/NodeApi/issues"
+  },
+  "homepage": "https://github.com/Krybordevelop/NodeApi#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
